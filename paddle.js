@@ -13,7 +13,7 @@ export default class Paddle {
   }
 
   set position(value) {
-    this.paddleElem.style.setProperty("--position", value)
+    this.paddleElem.style.setProperty("--position", value )
   }
 
   rect() {
