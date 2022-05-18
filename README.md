@@ -7,3 +7,10 @@ https://en.wikipedia.org/wiki/Pong
 
 ## Visit live and have a fun time
 https://pongonyourbrowser.netlify.app/
+
+## Tech Stack used
+
+  1. Javascript
+  2. CSS
+  3. HTML
+  4. AI (api based)
